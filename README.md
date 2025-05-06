@@ -1,8 +1,8 @@
 # LosCarranzas
 Solo puro cexo
 ## tasklist
-**<span>Def App</span>
+* Def App
 ## DEPENDENCIES
-**<span>Java 24</span>
-**<span>maven</span>
-**<span>postgres</span>
+* Java 24
+* Maven
+* Postgres
