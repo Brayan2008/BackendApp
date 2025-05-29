@@ -5,4 +5,8 @@ Solo puro cexo
 ## DEPENDENCIES
 * Java 24
 * Maven
-* Postgres
+* PostgreSql
+* Spring Boot Started 3.5
+* Spring Data JPA
+* Spring Web
+* Lombok
