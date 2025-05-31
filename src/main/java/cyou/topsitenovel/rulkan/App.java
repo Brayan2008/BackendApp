@@ -1,7 +1,11 @@
 package cyou.topsitenovel.rulkan;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
 public class App {
     public static void main(String[] args) {
-        System.out.println("Paco se la come al Piña");
+        SpringApplication.run(App.class, args);
     }
 }

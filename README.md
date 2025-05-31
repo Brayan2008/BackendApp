@@ -10,3 +10,8 @@ Solo puro cexo
 * Spring Data JPA
 * Spring Web
 * Lombok
+
+## Install Dependencies
+* mvn clean install -U
+## Started
+* mvn spring-boot:run
