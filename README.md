@@ -16,4 +16,4 @@ Solo puro cexo
 ## Started
 * mvn spring-boot:run
 ### URL
-* https://mvnrepository.com/
+* Repository maven [mvn central](https://mvnrepository.com/)
